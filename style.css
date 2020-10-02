@@ -29,7 +29,7 @@ input[type=day], input[type=months], input[type=year] {
   }
   .details{
     background-color: #4CAF50;
-    color:blue;
+    color:white;
     padding: 16px 20px;
     margin: 8px 0;
     border: none;
