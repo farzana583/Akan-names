@@ -4,8 +4,40 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <h1>The Akan Names</h1>
+     <div class="container">
+     <p>Please fill in this form for your Akan name</p>
+     <hr>
+
+     <label for="date"><b>Date</b></label>
+      <input type="days" placeholder="Enter Date" name="date" id="date" required>
+
+      <label for="month"><b>Date</b></label>
+      <input type="months" placeholder="Enter Month" name="month" id="month" required>
+
+      <label for="year"><b>Year</b></label>
+      <input type="years" placeholder="Enter Year" name="year" id="year" required>
+       <br>
+       <br>
+      
+      <!-- input for Radio butons -->
+       <form>
+           <input type="radio" id="male" name="gender" value="male" >
+           <label for="male">Male</label><br>
+
+           <input type="radio" id="female" name="gender" value="female">
+           <label for="female">Female</label><br>
+
+       </form>
+       <hr>
+
+       <p>submit your details <a href="#">Details</a></p>
+        <button type="submit" class="details">Submit</button>
+     </div>
+
+        
 </body>
 </html>
