@@ -1,9 +1,14 @@
 *{
     box-sizing: border-box;
-    background-color: fuchsia;
+  
+}
+body{
+    background-image: url(./images/39.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-input[type=days], input[type=months], input[type=years] {
+input[type=day], input[type=months], input[type=year] {
     width: 100%;
     padding: 15px;
     margin: 5px 0 22px 0;
@@ -12,7 +17,7 @@ input[type=days], input[type=months], input[type=years] {
     background: #f1f1f1;
   }
 
-  input[type=days], input[type=months], input[type=years] {
+  input[type=day], input[type=months], input[type=year] {
       background-color: #ddd;
       outline: none;
 
@@ -38,6 +43,13 @@ input[type=days], input[type=months], input[type=years] {
  a{
      color: dodgerblue;
   }
-
-
+.p1{
+    text-align: center;
+}
+h1{
+    font-family: 'Sansita Swashed', cursive;
+}
+p{
+    font-family: 'Sansita Swashed', cursive;
+}
  

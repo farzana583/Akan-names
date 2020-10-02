@@ -5,39 +5,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;800&display=swap" rel="stylesheet">
+    
 </head>
 <body>
     <h1>The Akan Names</h1>
      <div class="container">
      <p>Please fill in this form for your Akan name</p>
      <hr>
+     <form name="myForm" class="form" onsubmit="validate();">
 
      <label for="date"><b>Date</b></label>
-      <input type="days" placeholder="Enter Date" name="date" id="date" required>
+      <input type="day" placeholder="Enter Date" name="date" id="date" required>
 
-      <label for="month"><b>Date</b></label>
-      <input type="months" placeholder="Enter Month" name="month" id="month" required>
+      <label for="month"><b>Month</label>
+      <input type="months" placeholder="Enter Month " name="month" id="month" required>
 
       <label for="year"><b>Year</b></label>
-      <input type="years" placeholder="Enter Year" name="year" id="year" required>
+      <input type="year" placeholder="Enter Year" name="year" id="year" required>
        <br>
        <br>
       
       <!-- input for Radio butons -->
-       <form>
+       
            <input type="radio" id="male" name="gender" value="male" >
            <label for="male">Male</label><br>
 
            <input type="radio" id="female" name="gender" value="female">
            <label for="female">Female</label><br>
-
-       </form>
        <hr>
 
-       <p>submit your details <a href="#">Details</a></p>
-        <button type="submit" class="details">Submit</button>
-     </div>
+       <p>follow me on Git-Hub <a href="https://github.com/farzana583">Details</a></p>
+        <button type="submit" class="details" onclick="findName();">Submit</button>
+       <br>
+    </div>
+</form>
+<p class="p1">The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name.</p>
 
-        
+<script src="index.js"></script>        
 </body>
 </html>
