@@ -10,7 +10,7 @@
 ---
 ### Git Hub Live Link
 *click to view my Akan name*
-[https://github.com/farzana583/Akan-names](https://github.com/farzana583/Akan-names)
+[https://farzana583.github.io/Akan-names/](https://farzana583.github.io/Akan-names/)
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Kerry Kipchumba Kogei]
