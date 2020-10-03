@@ -7,11 +7,9 @@
 * on your search bar white [https://github.com/farzana583/Akan-names/](https://github.com/farzana583/Akan-names)
 * on github click the link and you ready to go.
 ---
-#### project image
-![Farzanaisack](./images/potfo.png)
 ---
 ### Git Hub Live Link
-*click to view my portfolio*
+*click to view my Akan name*
 [https://github.com/farzana583/Akan-names](https://github.com/farzana583/Akan-names)
 ## Copyright and License
 MIT License
