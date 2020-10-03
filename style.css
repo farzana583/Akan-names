@@ -20,6 +20,7 @@ input[type=day], input[type=months], input[type=year] {
   input[type=day], input[type=months], input[type=year] {
       background-color: #ddd;
       outline: none;
+      
 
   }
 
