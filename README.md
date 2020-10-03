@@ -1,18 +1,18 @@
 # Farzana-Akan-Names
-#### {This a portfolio that describe Kerry kipchumba Kogei in details}, {26/09/2020}
-#### By **Kerry Kipchumba Kogei**    
+#### {This a Akan names which discribes Ghanas names and specific date of birth}, {03/09/2020}
+#### By **Farzana Isack**    
 ---
 ## Setup instructions
 * Launch your browser
-* on your search bar white [https://github.com/Kerrykogei24/Kerry-Portfolio](https://github.com/Kerrykogei24/Kerry-Portfolio)
+* on your search bar white [https://github.com/farzana583/Akan-names/](https://github.com/farzana583/Akan-names)
 * on github click the link and you ready to go.
 ---
 #### project image
-![Kerrykogei](./images/potfo.png)
+![Farzanaisack](./images/potfo.png)
 ---
 ### Git Hub Live Link
 *click to view my portfolio*
-[https://kerrykogei24.github.io/Kerry-Portfolio/](https://kerrykogei24.github.io/Kerry-Portfolio/)
+[https://github.com/farzana583/Akan-names](https://github.com/farzana583/Akan-names)
 ## Copyright and License
 MIT License
 Copyright (c) [2020] [Kerry Kipchumba Kogei]
@@ -31,4 +31,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright (c) {2020} **{Kerry Kipchumba Kogei}**
+Copyright (c) {2020} **{Farzana Isack}**
