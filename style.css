@@ -6,6 +6,7 @@ body{
     background-image: url(./images/39.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 input[type=day], input[type=months], input[type=year] {

@@ -24,7 +24,8 @@ function validate(){
         alert("please provide your valid date");
         document.myForm.date.focus();
         return false;
-       
+      
+
        }
     else if(genders[0].checked==false && genders[1].checked==false ) {
         alert("You must select male or female");
